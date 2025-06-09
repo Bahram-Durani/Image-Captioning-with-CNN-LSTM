@@ -24,6 +24,8 @@ This project uses the **Flickr8k** dataset:
 1. **Flickr8k_Dataset**: Contains the images.
 2. **Flickr8k_text**: Contains image captions.
 
+Dataset Link: https://www.kaggle.com/datasets/adityajn105/flickr8k 
+
 ### Model Architecture
 
 #### The model consists of two parts:
